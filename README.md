@@ -61,14 +61,15 @@ The implementation uses a discontinuous Galerkin formulation with:
 ├── src/
 │   ├── Galerkin.cpp
 │   ├── mvector.h
-│   └── mmatrix.h
+│   ├── mmatrix.h
+│
 ├── results/
 │   ├── burgersin.pdf
 │   ├── burgersquare.pdf
 │   ├── MCLimiter.pdf
 │   ├── Erroragainsthandt.jpeg
 │
-├── report.pdf
+├── Discontinuous_Galerkin_Methods_for_Convection_Dominated_Problems
 └── README.md
 ```
 
