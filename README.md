@@ -69,7 +69,7 @@ The implementation uses a discontinuous Galerkin formulation with:
 │   ├── MCLimiter.pdf
 │   ├── Erroragainsthandt.jpeg
 │
-├── Discontinuous_Galerkin_Methods_for_Convection_Dominated_Problems
+├── Discontinuous_Galerkin_Methods_for_Convection_Dominated_Problems.pdf
 └── README.md
 ```
 
