@@ -1,5 +1,6 @@
 # Discontinuous Galerkin Methods for Convection-Dominated Problems
-
+**Report (PDF):** [[Zenodo DOI]()]  
+**Code Repository:** [[GitHub link](https://github.com/jacekschmidt/Discontinuous_Galerkin_Methods/edit/main/README.md)]
 ## Overview
 
 This project implements a discontinuous Galerkin (DG) method for solving one-dimensional convection-dominated transport equations, with a particular focus on systems exhibiting shock formation and propagation.
